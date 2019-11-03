@@ -1,6 +1,6 @@
 package fundamentos;
 
-public class Aula_35_Aritmeticos {
+public class Aula_35e36_Aritmeticos {
 
 	public static void main(String[] args) {
 		
